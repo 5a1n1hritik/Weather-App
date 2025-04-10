@@ -1,7 +1,8 @@
 # 🌦️ Klimate  
 **Klimate** is a modern weather application that brings real-time weather updates and forecasts to your fingertips. With a sleek user interface and reliable data, Klimate helps you plan your day better. 🌍
 
-<img src="https://github.com/MayankGhatawal/Klimate/blob/master/public/Screenshot%202024-12-19%20215347.png?raw=true"></img>
+![image](https://github.com/user-attachments/assets/f75b56de-9158-4019-b859-c1fa4c8368cd)
+
 
 
 ---
@@ -40,8 +41,8 @@ Follow these steps to set up the project locally:
 1. Clone the repository:  
 
    ```bash
-   git clone https://github.com/MayankGhatawal/Klimate.git
-   cd Klimate
+   git clone https://github.com/5a1n1hritik/Weather-app.git
+   cd Klimate-app
    ```
 
 2. Install dependencies:  
@@ -69,17 +70,19 @@ Follow these steps to set up the project locally:
 
 ### 🌞 Light Mode  
 
-![Light Mode UI](https://github.com/MayankGhatawal/Klimate/blob/master/public/Screenshot%202024-12-19%20215759.png?raw=true)  
+![Light Mode](https://github.com/user-attachments/assets/cd0baf57-7143-4c10-a510-39af797988da)
+
 
 ### 🌙 Dark Mode  
 
-![Dark Mode UI](https://github.com/MayankGhatawal/Klimate/blob/master/public/Screenshot%202024-12-19%20215347.png?raw=true)  
+![Dark Mode](https://github.com/user-attachments/assets/120d39fe-b42b-4d52-84a8-a45368252a1d)
+ 
 
 ---
 
 ## 🌍 Deployment  
 
-The application is live! Check it out here: [Klimate Live](https://klimate-zmok.vercel.app/)  
+The application is live! Check it out here: [Klimate Live](https://weather-app-blond-ten-28.vercel.app/)
 
 ---
 
@@ -114,8 +117,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 Feel free to reach out if you have any questions or suggestions:  
 
-- GitHub: [MayankGhatawal](https://github.com/MayankGhatawal)  
-- Email: mayank1ghatawal@gmail.com
+- GitHub: [HritikSaini](https://github.com/5a1n1hritik)  
+- Email: sainihritik033@gmail.com
 
 ---
 
