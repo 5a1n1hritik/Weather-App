@@ -42,7 +42,7 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/5a1n1hritik/Weather-app.git
-   cd Klimate-app
+   cd Klimate-master
    ```
 
 2. Install dependencies:  
